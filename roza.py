@@ -33,3 +33,4 @@ resized_image[y:y + t_row, x: x + t_col] = resized_other
 cv2.imshow('Detect', resized_image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+print("hello Lusine")
